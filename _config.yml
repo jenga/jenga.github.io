@@ -1,7 +1,7 @@
 name: Data Driven
 description: Using Data to Drive Decisions
 meta_description: "A Blog About Data-Driven Decision Making"
-baseurl: '/data-driven/'
+baseurl: ''
 
 markdown: redcarpet
 pygments: true
