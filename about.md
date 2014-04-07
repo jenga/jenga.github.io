@@ -3,7 +3,15 @@ layout: page
 title: About me 
 ---
 
-I am a Data Scientist focusing on the application of data towards decision-making in healthcare. At heart, I am a generalist seeking to apply a data-driven approach to life. My studies and experience span software development, data analytics, bioinformatics, neuroscience, computational biology, and machine learning. While no longer a student (finally!), I am always seeking to learn new things.
+I am a Data Scientist focusing on the application of data towards decision-making in healthcare. At heart, I am a generalist seeking to apply a data-driven approach to life. My studies and experience span:
+
+- software development
+- analytics
+- bioinformatics
+- neuroscience
+- computational biology
+- machine learning
+- clinical research
 
 > "Let my dataset change your mindset" - Hans Rosling
 

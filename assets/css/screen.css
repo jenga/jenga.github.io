@@ -64,7 +64,6 @@ pre {
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
   word-wrap: break-word;
-  background-color: rgba(0, 0, 0, 0.05);
 }
 p code {
   font-family: "Consolas", Courier, monospace;
